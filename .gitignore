@@ -1,0 +1,4 @@
+NLP/data/
+NLP/results/checkpoint-*/
+NLP/model/
+NLP/src/__pycache__/
