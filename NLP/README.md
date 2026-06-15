@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 本项目使用 **BERT-base-uncased** 作为预训练模型。
 
-建议 : 本仓库已包含本地数据集和预训练模型，下载后可直接运行，无需额外下载。
+由于数据集和预训练模型文件较大，本仓库不直接托管。请按以下步骤手动下载并放置：
 
 BERT-base-uncased：约 440 MB
 
